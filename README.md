@@ -2,7 +2,7 @@
 
 Análise Exploratória de Dados do <span  style="color:green; font-weight: bold;">Segmento de Telecom</span>. A empresa possui três conjuntos de dados de clientes e serviços, com uma variável que determina se o cliente <span  style="color:green; font-weight: bold;">abandonou (churm)</span> ou não a empresa de telecom.
 
-## 🖼 Objetivo
+## Objetivo
 
 O intuito é que com estes conjuntos de dados e com base em algumas hipóteses que iremos formular e que serão respondidas pelo EDA, possa obter alguns <span  style="color:green; font-weight: bold;">insights iniciais</span> para a construção de inteligência artificial que possa <span  style="color:green; font-weight: bold;">"prever" o abandono de clientes ainda ativos</span>.
 
